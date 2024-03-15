@@ -1,1 +1,1 @@
-# What-have-I-learned-daily
+It's just my personal notes from PHP learning
